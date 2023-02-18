@@ -131,6 +131,5 @@ header-includes:
 
 # Список литературы{.unnumbered}
 
-1. https://yamadharma.github.io/ru/course/os-intro/lab/lab-initial-git-setup/
-
-2. https://esystem.rudn.ru/mod/page/view.php?id=967223
+::: {#refs}
+:::
