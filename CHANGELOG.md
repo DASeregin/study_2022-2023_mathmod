@@ -1,3 +1,4 @@
+- feat(main): add lab6
 - feat(main):Add Lab4
 - feat(main): lab3
 - feat(main): lab2
